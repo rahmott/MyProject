@@ -1,7 +1,14 @@
+![My Banner](EH/GPHIS.png)
+# Developer By
+![My Banner](EH/Logo.jpeg)
+## Termux use
+```
 apt update && apt upgrade -y
 apt install git
 apt install cloudflared
 apt install python -y
 pip install colorama
-https://github.com/rahmott/MyProject
+git clone https://github.com/rahmott/MyProject
+cd EH-GPHIS
 python GFISH.py
+```
